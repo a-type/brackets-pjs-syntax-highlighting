@@ -4,7 +4,7 @@
     "description": "An extremely simple plugin to highlight all .pjs files as JavaScript syntax",
     "homepage": "https://github.com/a-type/brackets-pjs-syntax-highlighting",
     "version": "1.0.0",
-    "author": "Grant Forrest <a-type-dev@outlook.com> (www.grantforrest.net),
+    "author": "Grant Forrest <a-type-dev@outlook.com> (www.grantforrest.net)",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.24.0"
